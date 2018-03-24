@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "197189926409",
+    "firebase_url": "https://saya-orang-indonesia.firebaseio.com",
+    "project_id": "saya-orang-indonesia",
+    "storage_bucket": "saya-orang-indonesia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197189926409:android:092b60ca1ac73e3f",
+        "android_client_info": {
+          "package_name": "id.co.yoenas.sayaorangindonesia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197189926409-l14hnso9ic2m1tmlp0v0ufa6pfp19ioi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.co.yoenas.sayaorangindonesia",
+            "certificate_hash": "b91715e6b39e99da1ac47966660af3b215e5b70d"
+          }
+        },
+        {
+          "client_id": "197189926409-v0krg4jm541i5a36a8u58l236op6b878.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeUr2L6ETmJRIjmsaKmYaAK1639QHRmVk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197189926409-v0krg4jm541i5a36a8u58l236op6b878.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
